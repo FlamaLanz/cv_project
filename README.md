@@ -16,6 +16,6 @@ RoadAnomaly: <br>
     Dataset link: https://drive.google.com/drive/folders/1frfml1PU7hENftQ-cvY-gx0QYi0OcSnQ?usp=sharing <br>
 
 FishyScapes: <br>
-    This dataset was created following its official website's guidelines since it is no longer available fro download. <br>
+    This dataset was created following its official website's guidelines since it is no longer available for download. <br>
     Official website: https://fishyscapes.com <br>
     Dataset Link: https://drive.google.com/drive/folders/1n0F6MufU0YPJ66ixIrYGLRAyNmvRXxA1?usp=sharing <br>
